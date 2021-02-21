@@ -1,1 +1,1 @@
-web: gunicorn app:knn
+web: gunicorn knn:app
